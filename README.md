@@ -52,11 +52,19 @@ Once logged in, you’ll get access to the Admin Dashboard for product managemen
 📁 Project Structure
 src/
 ├── assets/                # Images, icons, etc.
+
 ├── components/            # Reusable UI components
+
 ├── context/               # React Context for auth, cart, theme
+
 ├── pages/                 # Route-based pages (Home, Shop, Cart, etc.)
+
 ├── routes/                # Route configuration
+
 ├── types/                 # TypeScript type definitions
+
 ├── utils/                 # Utility functions
+
 ├── App.tsx                # Root component
+
 └── main.tsx               # Entry point
