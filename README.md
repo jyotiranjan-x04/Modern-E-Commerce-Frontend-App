@@ -49,7 +49,7 @@ Password: admin (set or mocked)
 
 Once logged in, you’ll get access to the Admin Dashboard for product management.
 
-📁 Project Structure
+## 📁 Project Structure
 src/
 ├── assets/                # Images, icons, etc.
 
