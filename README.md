@@ -50,7 +50,8 @@ Password: admin (set or mocked)
 Once logged in, you’ll get access to the Admin Dashboard for product management.
 
 ## 📁 Project Structure
-src/  
+src/
+
       ├── assets/                # Images, icons, etc.
 
       ├── components/            # Reusable UI components
