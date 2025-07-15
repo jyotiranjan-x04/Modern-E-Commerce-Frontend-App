@@ -40,8 +40,8 @@ production-ready, modern, and fully responsive e-commerce frontend application u
 4. **Open in Browser**
    ```bash
    http://localhost:5173
-
-##👤 Admin Credentials
+   
+## 👤 Admin Credentials
 You can log in as an admin using the following credentials:
 
 Email: admin@example.com  
