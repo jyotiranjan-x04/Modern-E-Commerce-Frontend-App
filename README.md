@@ -50,21 +50,21 @@ Password: admin (set or mocked)
 Once logged in, you’ll get access to the Admin Dashboard for product management.
 
 ## 📁 Project Structure
-src/
-├── assets/                # Images, icons, etc.
+src/  
+      ├── assets/                # Images, icons, etc.
 
-├── components/            # Reusable UI components
+      ├── components/            # Reusable UI components
 
-├── context/               # React Context for auth, cart, theme
+      ├── context/               # React Context for auth, cart, theme
 
-├── pages/                 # Route-based pages (Home, Shop, Cart, etc.)
+      ├── pages/                 # Route-based pages (Home, Shop, Cart, etc.)
 
-├── routes/                # Route configuration
+      ├── routes/                # Route configuration
 
-├── types/                 # TypeScript type definitions
+      ├── types/                 # TypeScript type definitions
 
-├── utils/                 # Utility functions
+      ├── utils/                 # Utility functions
 
-├── App.tsx                # Root component
-
-└── main.tsx               # Entry point
+      ├── App.tsx                # Root component
+      
+         └── main.tsx               # Entry point
