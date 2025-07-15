@@ -29,7 +29,7 @@ production-ready, modern, and fully responsive e-commerce frontend application u
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/modern-ecommerce-ui.git
+   git clone https://github.com/jyotiranjan-x04/modern-ecommerce-ui.git
    cd modern-ecommerce-ui
 2. **Install Dependencies**
    ```bash
